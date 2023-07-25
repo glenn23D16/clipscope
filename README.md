@@ -7,7 +7,7 @@ ClipScope is an innovative tool designed to analyze YouTube video metrics and pr
 - **Data Collection**: Gather metrics about YouTube videos such as views, likes, comments, and more.
 - **Analysis**: Provides insightful statistics based on collected data to support decision-making.
 - **User-friendly Interface**: Simple and intuitive design for users of all levels.
-- **Secure**: Ensures your data's privacy with advanced security measures.
+- **Secure**: Ensures your data's privacy with advanced security measures.sourcsoo
 
 ## Getting Started
 
